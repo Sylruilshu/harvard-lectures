@@ -1,0 +1,7 @@
+src*
+__pycache__
+.vscode
+*.exe
+froshims
+libcs50
+python-cs50
